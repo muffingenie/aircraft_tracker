@@ -1,2 +1,5 @@
-# aircraft_tracker
-A tool to track flying aircraft
+# Aircraft Tracker
+
+The present code can be used to track aircrafts and receive a notification by mail when the aicrafts are airborne.
+
+By default, the script check if the aurcraft is airborne every hour. 
